@@ -14,7 +14,7 @@ Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://
 - Responsive for different devices
 - Optimized for Next.js and Vercel
 
-# Getting Started Locally
+# Getting Started Locally..
 
 1. Clone this repository to your local machine:
 
